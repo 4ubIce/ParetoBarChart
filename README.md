@@ -1,4 +1,4 @@
-# ParetoBarChart (using d3js)
+# Pareto Bar Chart (using d3js)
 
 ![Pareto Bar Chart](logo.jpg) 
 
